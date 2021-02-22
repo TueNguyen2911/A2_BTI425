@@ -1,0 +1,12 @@
+table.table-hover:hover{ cursor: pointer; }
+body {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+div.card-body {
+
+}
+div.card-body:hover {
+    height: 300px;
+}
